@@ -8,7 +8,7 @@ MiyU is a custom OnionOS theme inspired by Nintendo's Wii U visual style, adapte
 
 
 ## Installation
-1. Download the ZIP file `MiyU by nrdcc.zip` from this repository.
+1. Download the latest `MiyU by nrdcc.zip` release from https://github.com/nrdcc/miyu/releases/.
 2. Copy `MiyU by nrdcc.zip` to the `/Themes/` folder on the SD card root.  
 3. Reboot your Miyoo Mini / Miyoo Mini Plus.  
 4. Open Apps → Themes and select **MiyU**.
